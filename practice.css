@@ -1,0 +1,15 @@
+/*This is where your styles would go for practice.html.*/
+
+.Header{
+	text-align: center;
+	color: red;
+	border: 2px solid slategray;
+	background-color: skyblue;
+	margin-left: 20%;
+}
+#BullsChamp{
+
+	text-align: center;
+	color: orangered;
+	border: 1.5px Dashed black;
+}
